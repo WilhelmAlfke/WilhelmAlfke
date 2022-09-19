@@ -1,3 +1,4 @@
+🟥:blue_square:
 # hello web
 
 _my name is will. i currently live in hamburg and participate at a bootcamp of neue fische to lay the base of becoming a web developer._
