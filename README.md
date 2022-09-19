@@ -1,3 +1,13 @@
-Hello my name is Will
+#Hello web
+
+My name is Will. 
+
+#About Me
+
+Hamburg
+Music
+Skateboarding
+Cats
+
 
 
