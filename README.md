@@ -13,6 +13,7 @@ _i went on an odyssey to be where i am at right now. some of the steps were carp
 - [music](https://ryloth.bandcamp.com)
 - skateboarding
 - cats
+- politics
 
 ![cat](https://media.giphy.com/media/mlvseq9yvZhba/giphy.gif)
 
